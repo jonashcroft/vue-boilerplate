@@ -12,3 +12,4 @@ A simple Vue boilerplate for personal use. I decided to make this repo as a star
 * Preferred component structuring included
 * Single Quotes
 * Axios
+* Event Bus
